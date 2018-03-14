@@ -4,26 +4,41 @@
     detail: 서버내부 관리
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 언제하지 ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: 2018.04 - 2018.06
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 금수저
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: 
+    detail: library blog zone
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 라이브러리  ...
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: since 2018.03
     i18n: company_b_date
   job:
     detail: Full Stack Developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: 유성환 → 유생
+    i18n: company_c
+  desc:
+    detail: 개발개발열매 섭취중...
+    i18n: company_c_desc
+  date:
+    detail: since 2017.12.11
+    i18n: company_c_date
+  job:
+    detail: DEVELOPER
+    i18n: company_c_job
   icon: fa-plus-square

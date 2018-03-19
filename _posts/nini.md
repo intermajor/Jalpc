@@ -7,7 +7,7 @@
 
 **Bold** / *italy* / ~~취소선~~ / ++밑줄++ / ==강조== / 주석 <!--주석-->
 
-`인라인코드`
+`인라인코12121ㅇㅁㄴㅇㄷㅁㅇ2드  `
 ```java
 class Test {
     public static void main(String[] args) {
@@ -40,7 +40,7 @@ _ _ _
 2. test2
 
 - test3
-- test4 
+- test4
 
 - [ ] task list
 

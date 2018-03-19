@@ -1,3 +1,15 @@
+---
+layout: post
+title:  "니니 테스트"
+date:   2018-03-19
+desc: "desc"
+keywords: "test"
+categories: [blog]
+tags: [test]
+icon: icon-html
+---
+
+
 # H1 - 니니's test
 ## H2
 ### H3
@@ -7,7 +19,7 @@
 
 **Bold** / *italy* / ~~취소선~~ / ++밑줄++ / ==강조== / 주석 <!--주석-->
 
-`인라인코12121ㅇㅁㅁㅇㅇㅁㅇㄴㅇㄷㅁㅇ2드  `
+`인라인코드  `
 ```java
 class Test {
     public static void main(String[] args) {

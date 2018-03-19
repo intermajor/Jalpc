@@ -1,12 +1,6 @@
 ---
 layout: post
 title:  "니니 테스트"
-date:   2018-03-19
-desc: "desc"
-keywords: "test"
-categories: [blog]
-tags: [test]
-icon: icon-html
 ---
 
 

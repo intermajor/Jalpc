@@ -1,6 +1,10 @@
 ---
 layout: post
 title:  "니니 테스트"
+
+keywords: "Linux"
+categories: [Linux]
+tags: [Linux]
 ---
 
 

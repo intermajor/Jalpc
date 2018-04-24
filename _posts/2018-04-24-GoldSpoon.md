@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "니니 테스트"
+title:  "GoldSpoon 테스트"
 keywords: "blog"
 categories: [blog]
 tags: [test]
 ---
 
-# H1 - 니니's test~
+# H1 - GoldSpoon's test~
 ## H2 - haroopad
 ### H3
 #### H4
@@ -72,7 +72,7 @@ _ _ _
 
 _ _ _
 - [ ] task list
-- [x] done 
+- [x] done
 
 
 | 	 	   |   col  |   col  |
